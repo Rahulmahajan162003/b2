@@ -5,3 +5,5 @@ aaccbb
 i am in branch csm
 after pushing 
 after cloning 
+before pushing
+before cloning 
